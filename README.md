@@ -35,3 +35,6 @@ Getting Started
 1. Ensure you have the **Fabric Loader** installed for Minecraft 1.14.4
 2. Download the latest `.jar` from the [Releases](https://github.com/2carpathian4u/Delta-Client/releases) page.
 3. Move the file into your `.minecraft/mods` folder.
+
+### 🛠 Development & Contribution
+Delta Client is an open-source project. Technical contributions, bug reports, and feature proposals should be submitted via the **Pull Request** or **Issue** systems. Please refer to the `CONTRIBUTING.md` for specific formatting standards.
