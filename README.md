@@ -36,5 +36,5 @@ Getting Started
 3. Move the file into your `.minecraft/mods` folder.
 4. Launch the game and enjoy!
 
-🛠 Contributing
+Contributing
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
