@@ -10,13 +10,10 @@
     <img src="https://img.shields.io/github/license/2carpathian4u/Delta-Client?style=for-the-badge&color=007bff" alt="License">
   </a>
   <img src="https://img.shields.io/badge/Minecraft-1.21-388E3C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
-  <a href="PASTE_YOUR_DISCORD_INVITE_LINK_HERE">
+  <a href="(https://discord.gg/FvA7TbZXpe)">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
-<h1 align="center">Delta Client</h1>
-
 ---
 
 **Delta Client** is a highly customizable utility mod for Minecraft **1.21** designed to enhance performance, utility, and your overall gameplay experience.
