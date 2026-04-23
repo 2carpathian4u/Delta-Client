@@ -2,6 +2,12 @@
   <img src="https://github.com/2carpathian4u/Delta-Client/blob/main/assets/deltaclient.png?raw=true" width="600">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/2carpathian4u/Delta-Client?include_prereleases&style=for-the-badge&color=007bff" alt="Release">
+  <img src="https://img.shields.io/github/license/2carpathian4u/Delta-Client?style=for-the-badge&color=007bff" alt="License">
+  <img src="https://img.shields.io/badge/Minecraft-1.21-brightgreen?style=for-the-badge&logo=minecraft" alt="Minecraft Version">
+</p>
+
 <h1 align="center">Delta Client</h1>
 
 <p align="center">
