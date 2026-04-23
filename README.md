@@ -34,7 +34,3 @@ Getting Started
 1. Ensure you have the **Fabric Loader** installed for Minecraft 1.14.4
 2. Download the latest `.jar` from the [Releases](https://github.com/2carpathian4u/Delta-Client/releases) page.
 3. Move the file into your `.minecraft/mods` folder.
-4. Launch the game and enjoy!
-
-Contributing
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
