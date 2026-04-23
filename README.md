@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2carpathian4u/Delta-Client/blob/main/assets/deltaclient.png?raw=true" alt="Delta Client Banner" width="800">
+  <img src="https://github.com/2carpathian4u/Delta-Client/blob/main/assets/deltaclient.png?raw=true" width="800" height="150">
 </p>
 
 <h1 align="center">Delta Client</h1>
