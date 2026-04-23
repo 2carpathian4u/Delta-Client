@@ -18,10 +18,12 @@
 
 **Delta Client** is an open-source utility mod for Minecraft **1.14.4** designed to enhance performance, utility, and your overall gameplay experience.
 
-### ✨ Features
-- **Advanced Combat:** Integrated modules for optimized PvP encounters.
-- **Visuals:** Fully customizable HUD and a sleek ClickGUI inspired by modern designs.
-- **Optimization:** Improved chunk loading and camera utilities for smoother performance.
+### ✨ Core Features
+* **Combat Systems:** Optimized algorithms for entity interaction, featuring precision timing and customizable targeting parameters.
+* **Environmental Manipulation:** Advanced world-rendering modifications, including enhanced brightness control, X-Ray filtration, and entity tracers.
+* **Movement Engine:** High-speed trajectory management and position adjustment modules designed for diverse server environments.
+* **Interface & HUD:** A minimalist, highly modular ClickGUI that allows for real-time configuration and on-screen data monitoring.
+* **Optimization Layer:** Significant overhead reduction in chunk processing and entity rendering to maintain high framerates during intensive utility usage.
 
 ### 📸 Screenshots
 <details>
