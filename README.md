@@ -9,14 +9,13 @@
   <a href="https://github.com/2carpathian4u/Delta-Client/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/2carpathian4u/Delta-Client?style=for-the-badge&color=007bff" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/Minecraft-1.21-388E3C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
+  <img src="https://img.shields.io/badge/Minecraft-1.14.4-388E3C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
   <a href="https://discord.gg/FvA7TbZXpe">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
----
 
-**Delta Client** is a highly customizable utility mod for Minecraft **1.21** designed to enhance performance, utility, and your overall gameplay experience.
+**Delta Client** is a highly customizable utility mod for Minecraft **1.14.4** designed to enhance performance, utility, and your overall gameplay experience.
 
 ### ✨ Features
 - **Advanced Combat:** Integrated modules for optimized PvP encounters.
@@ -31,11 +30,11 @@
     </p>
 </details>
 
-### 🚀 Getting Started
-1. Ensure you have the **Fabric Loader** installed for Minecraft 1.21.
+Getting Started
+1. Ensure you have the **Fabric Loader** installed for Minecraft 1.14.4
 2. Download the latest `.jar` from the [Releases](https://github.com/2carpathian4u/Delta-Client/releases) page.
 3. Move the file into your `.minecraft/mods` folder.
 4. Launch the game and enjoy!
 
-### 🛠 Contributing
+🛠 Contributing
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
