@@ -18,7 +18,7 @@
 
 **Delta Client** is an open-source utility mod for Minecraft **1.14.4** designed to enhance performance, utility, and your overall gameplay experience.
 
-### ✨ Core Features
+### Core Features
 * **Combat Systems:** Optimized algorithms for entity interaction, featuring precision timing and customizable targeting parameters.
 * **Environmental Manipulation:** Advanced world-rendering modifications, including enhanced brightness control, X-Ray filtration, and entity tracers.
 * **Movement Engine:** High-speed trajectory management and position adjustment modules designed for diverse server environments.
@@ -30,5 +30,5 @@
 2. Download the latest `.jar` from the [Releases](https://github.com/2carpathian4u/Delta-Client/releases) page.
 3. Move the file into your `.minecraft/mods` folder.
 
-### 🛠 Development & Contribution
+### Development & Contribution
 Delta Client is an open-source project. Technical contributions, bug reports, and feature proposals should be submitted via the **Pull Request** or **Issue** systems. Please refer to the `CONTRIBUTING.md` for specific formatting standards.
