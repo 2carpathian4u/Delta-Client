@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-**Delta Client** is a highly customizable utility mod for Minecraft **1.14.4** designed to enhance performance, utility, and your overall gameplay experience.
+**Delta Client** is an open-source utility mod for Minecraft **1.14.4** designed to enhance performance, utility, and your overall gameplay experience.
 
 ### ✨ Features
 - **Advanced Combat:** Integrated modules for optimized PvP encounters.
