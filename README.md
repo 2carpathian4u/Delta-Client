@@ -25,7 +25,7 @@
 * **Interface & HUD:** A minimalist, highly modular ClickGUI that allows for real-time configuration and on-screen data monitoring.
 * **Optimization Layer:** Significant overhead reduction in chunk processing and entity rendering to maintain high framerates during intensive utility usage.
 
-Getting Started
+### Installation Guide
 1. Ensure you have the **Fabric Loader** installed for Minecraft 1.14.4
 2. Download the latest `.jar` from the [Releases](https://github.com/2carpathian4u/Delta-Client/releases) page.
 3. Move the file into your `.minecraft/mods` folder.
