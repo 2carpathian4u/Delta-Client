@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png](https://github.com/2carpathian4u/Delta-Client/blob/main/assets/deltaclient.png?raw=true)" alt="Mod Banner">
+  <img src="(https://github.com/2carpathian4u/Delta-Client/blob/main/assets/deltaclient.png?raw=true)" alt="Mod Banner">
 </p>
 
 <h1 align="center">Delta Client</h1>
